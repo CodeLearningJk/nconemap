@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class NcOneInitializer {
     public static void main(String[] args) {
-        SpringApplication.run(NcOneInitializer.class, args);
+        SpringApplication.run(NcOneInitializer.class, args);//Adding comments
     }
 }
 
